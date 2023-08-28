@@ -1,0 +1,5 @@
+{{#user}}
+Name: Rohit
+Skills: React, Next.js, Firebase, Tailwind
+Email: rohit.pansari9@gmail.com
+{{/user}}
